@@ -12,7 +12,7 @@ li {
 
 a {
   text-decoration: none;
-  padding: 1rem;
+  padding: 16px;
 }
 
 a:hover {
@@ -21,6 +21,10 @@ a:hover {
 
 img {
   border-radius: 30px;
+}
+
+li {
+  line-height: 32px;
 }
 
 .page-heading {
@@ -34,12 +38,12 @@ img {
 
 .description-image-container {
   display: flex;
-  gap: 2rem;
-  margin: 2rem 5rem;
+  gap: 32px;
+  margin: 32px 80px;
 }
 
 .right-side {
   background-color: #dfd7d7;
   border-radius: 30px;
-  padding: 1rem 5rem;
+  padding: 16px 80px;
 }
